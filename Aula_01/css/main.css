@@ -1,0 +1,29 @@
+li {
+  list-style-type: none;
+  margin-top: 20px;
+  width: 400px;
+  padding: 5px;
+}
+.font_style{
+  font-family: Arial;
+  font-style: bold;
+  font-size: 13px;
+}
+
+li.c1 {
+  border: 1px solid darkgray;
+}
+
+li.c2 {
+  border-bottom: 1px solid red;
+}
+
+li.c3 {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+li.c4 {
+  border-left: 5px solid #2196f3;
+  background: #ddffff;
+}

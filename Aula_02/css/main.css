@@ -1,0 +1,32 @@
+ul {
+    list-style-type: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+li {
+    background-color: #6495ed;
+    padding-left: 10;
+    width: 40%;
+    margin-bottom: 1px;
+}
+
+li[id="cabecalho"] {
+    background-color: grey;
+}
+
+header {
+    border-bottom: 2px solid;
+    border-color: gray;
+    margin-left: 10px;
+}
+
+a {
+    margin: 1px;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    border-left: 2px solid;
+    border-color: red;
+}
